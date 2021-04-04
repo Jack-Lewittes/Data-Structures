@@ -1,2 +1,2 @@
-# Data-Structures
-Data Structures Project 2 - Backtracking actions on un/sorted arrays, BST 
+# Data-Structures P-02
+Backtracking actions on un/sorted arrays, BST 
